@@ -1,0 +1,129 @@
+{
+    "people": [{
+        "name": "Alex Do",
+        "position": "Advisor",
+        "collected?": "Yes",
+        "pc": "Chang Liu"
+    }, {
+        "name": "Amanat Bal",
+        "position": "Showcase Producer",
+        "collected?": "Yes",
+        "pc": "Morris Lam"
+    }, {
+        "name": "Anna Tian",
+        "position": "Finance Chair",
+        "collected?": "Yes",
+        "pc": "Sally Deng"
+    }, {
+        "name": "Anya Li",
+        "position": "Design",
+        "collected?": "Yes",
+        "pc": "Morris Lam"
+    }, {
+        "name": "Benson Han",
+        "position": "Webmaster",
+        "collected?": "Yes",
+        "pc": "Terri Shih",
+        "facebook": "8enson",
+        "instagram": "8enson",
+        "twitter": "bensonjaminhan",
+        "imageUrl": "HanBenson.jpg"
+    }, {
+        "name": "Ellen Hsieh",
+        "position": "Director of Team Relations",
+        "collected?": "Yes",
+        "pc": "Sally Deng"
+    }, {
+        "name": "Ellis Wong",
+        "position": "Events Chair",
+        "collected?": "Yes",
+        "pc": "Tia Liu"
+    }, {
+        "name": "Hongxi Wang",
+        "position": "Director of Finance",
+        "collected?": "Yes",
+        "pc": "Terri Shih"
+    }, {
+        "name": "Jesica Truong",
+        "position": "Finance Chair",
+        "collected?": "Yes",
+        "pc": "Sally Deng"
+    }, {
+        "name": "Josh Fidelis",
+        "position": "Showcase Committee",
+        "collected?": "Yes",
+        "pc": "Sally Deng"
+    }, {
+        "name": "Kevs Lee",
+        "position": "Advisor",
+        "collected?": "Yes",
+        "pc": "Terri/Chang"
+    }, {
+        "name": "Liana Liang ",
+        "position": "Workshop Coordinator",
+        "collected?": "Yes",
+        "pc": "N/A"
+    }, {
+        "name": "Lisa Chao",
+        "position": "Showcase Committee",
+        "collected?": "Yes",
+        "pc": "Terri Shih"
+    }, {
+        "name": "Marcea Suwandi",
+        "position": "Executive",
+        "collected?": "Yes",
+        "pc": "Morris Lam",
+        "facebook": "Marcea Suwandi",
+        "imageUrl": "SuwandiMarcea.jpg"
+    }, {
+        "name": "Michelle Liang",
+        "position": "Showcase Committee",
+        "collected?": "Yes",
+        "pc": "Jason Chang"
+    }, {
+        "name": "Miya Sheker",
+        "position": "Events Chair",
+        "collected?": "Yes",
+        "pc": "Chang Liu"
+    }, {
+        "name": "Rebecca Lin",
+        "position": "Director of Media",
+        "collected?": "Yes",
+        "pc": "Chang Liu"
+    }, {
+        "name": "Serena Zhang",
+        "position": "Director of Events",
+        "collected?": "Yes",
+        "pc": "Sally Deng"
+    }, {
+        "name": "Soobin Bae",
+        "position": "Videographer",
+        "collected?": "Yes",
+        "pc": "N/A"
+    }, {
+        "name": "Tenn Shaun Lim",
+        "position": "Executive",
+        "collected?": "Yes",
+        "pc": "Sally Deng"
+    }, {
+        "name": "Tia Liu",
+        "position": "Photographer",
+        "collected?": "Yes",
+        "pc": "Sally Deng"
+    }, {
+        "name": "Vivian Tan",
+        "position": "Marketing Chair",
+        "collected?": "Yes",
+        "pc": "Tia Liu"
+    }, {
+        "name": "Wendy Truong",
+        "position": "Marketing Chair",
+        "collected?": "Yes",
+        "pc": "Terri Shih"
+    }, {
+        "name": "Yena Choi",
+        "position": "Advisor",
+        "collected?": "Yes",
+        "pc": "Terri Shih"
+    }]
+}

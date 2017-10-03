@@ -6,6 +6,8 @@ var cleanCSS = require('gulp-clean-css');
 var rename = require("gulp-rename");
 var uglify = require('gulp-uglify');
 var pkg = require('./package.json');
+var nunjucksRender = require('gulp-nunjucks-render');
+var data = require('gulp-data');
 
 // Set the banner content
 var banner = ['/*!\n',
@@ -15,6 +17,18 @@ var banner = ['/*!\n',
   ' */\n',
   ''
 ].join('');
+
+// Compiles Nunjucks files
+gulp.task('nunjucks', function() {
+  return gulp.src('app/pages/**/*.+(html|nunjucks)')
+  .pipe(data(function() {
+    return require('./data.json')
+  }))
+  .pipe(nunjucksRender({
+    path: ['app/templates']
+  }))
+  .pipe(gulp.dest('app'))
+})
 
 // Compiles SCSS files from /scss into /css
 gulp.task('sass', function() {

@@ -1,0 +1,13 @@
+{% extends "layout.nunjucks" %} {% block content %}
+<!-- Header -->
+<header class="masthead">
+    <div class="container">
+        <div class="intro-text">
+            <div class="intro-lead-in">Foundations Choreography</div>
+            <div class="intro-heading">Beginners Dance Team</div>
+            <a class="btn btn-xl js-scroll-trigger" href="#services">Build Yourself!</a>
+        </div>
+    </div>
+</header>
+{% include '../templates/partials/leadership.nunjucks' %}
+{% endblock %}
