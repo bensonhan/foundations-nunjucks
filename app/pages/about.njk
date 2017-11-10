@@ -1,0 +1,27 @@
+{% extends "layout.nunjucks" %} {% block content %}
+<!-- Header -->
+<header class="masthead" id="about-masthead">
+    <div class="container">
+        <div class="intro-text">
+            {# <div class="intro-lead-in">Foundations Choreography</div> #}
+            <div class="intro-heading">About</div>
+            {# <a class="btn btn-xl js-scroll-trigger" href="#services">Build Yourself!</a> #}
+        </div>
+    </div>
+</header>
+<section>
+    <div class="container">
+        {% include '../templates/partials/mission.njk' %}
+    </div>
+</section>
+{# <section>
+    <div class="container">
+        {% include '../templates/partials/community.njk' %}
+    </div>
+</section> #}
+<section class="bg-light">
+    <div class="container">
+        {% include '../templates/partials/leadership.njk' %}
+    </div>
+</section>
+{% endblock %}

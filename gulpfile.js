@@ -15,12 +15,12 @@ var banner = ['/*!\n',
   ' * Copyright 2013-' + (new Date()).getFullYear(), ' <%= pkg.author %>\n',
   ' * Licensed under <%= pkg.license %> (https://github.com/BlackrockDigital/<%= pkg.name %>/blob/master/LICENSE)\n',
   ' */\n',
-  ''
+  ''  
 ].join('');
 
 // Compiles Nunjucks files
 gulp.task('nunjucks', function() {
-  return gulp.src('app/pages/**/*.+(html|nunjucks)')
+  return gulp.src('app/pages/**/*.+(html|nunjucks|njk)')
   .pipe(data(function() {
     return require('./data.json')
   }))

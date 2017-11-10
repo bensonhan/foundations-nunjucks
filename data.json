@@ -1,129 +1,85 @@
-{
-    "people": [{
-        "name": "Alex Do",
-        "position": "Advisor",
-        "collected?": "Yes",
-        "pc": "Chang Liu"
-    }, {
-        "name": "Amanat Bal",
-        "position": "Showcase Producer",
-        "collected?": "Yes",
-        "pc": "Morris Lam"
-    }, {
-        "name": "Anna Tian",
-        "position": "Finance Chair",
-        "collected?": "Yes",
-        "pc": "Sally Deng"
+{"people":[
+    {
+        "name": "Alexander Tang",
+        "position": "Director",
+        "imageurl": "TangAlex.jpg",
+        "email": "alexander.x.tang@gmail.com"
     }, {
         "name": "Anya Li",
-        "position": "Design",
-        "collected?": "Yes",
-        "pc": "Morris Lam"
+        "position": "Design Chair",
+        "imageurl": "LiAnya.jpg",
+        "email": "anyali97@gmail.com"
+    }, {
+        "name": "Ashley Pizarro",
+        "position": "Captain",
+        "imageurl": "PizarroAshley.jpg",
+        "email": "apizarro@g.ucla.edu"
     }, {
         "name": "Benson Han",
         "position": "Webmaster",
-        "collected?": "Yes",
-        "pc": "Terri Shih",
-        "facebook": "8enson",
-        "instagram": "8enson",
-        "twitter": "bensonjaminhan",
-        "imageUrl": "HanBenson.jpg"
+        "imageurl": "HanBenson.jpg",
+        "email": "bensonjaminhan@gmail.com",
+        "linkedin": "8enson"
     }, {
         "name": "Ellen Hsieh",
         "position": "Director of Team Relations",
-        "collected?": "Yes",
-        "pc": "Sally Deng"
+        "imageurl": "HsiehEllen.jpg",
+        "email": "eihsieh@ucla.edu"
     }, {
-        "name": "Ellis Wong",
-        "position": "Events Chair",
-        "collected?": "Yes",
-        "pc": "Tia Liu"
-    }, {
-        "name": "Hongxi Wang",
-        "position": "Director of Finance",
-        "collected?": "Yes",
-        "pc": "Terri Shih"
-    }, {
-        "name": "Jesica Truong",
-        "position": "Finance Chair",
-        "collected?": "Yes",
-        "pc": "Sally Deng"
-    }, {
-        "name": "Josh Fidelis",
-        "position": "Showcase Committee",
-        "collected?": "Yes",
-        "pc": "Sally Deng"
-    }, {
-        "name": "Kevs Lee",
-        "position": "Advisor",
-        "collected?": "Yes",
-        "pc": "Terri/Chang"
-    }, {
-        "name": "Liana Liang ",
-        "position": "Workshop Coordinator",
-        "collected?": "Yes",
-        "pc": "N/A"
-    }, {
-        "name": "Lisa Chao",
-        "position": "Showcase Committee",
-        "collected?": "Yes",
-        "pc": "Terri Shih"
-    }, {
-        "name": "Marcea Suwandi",
-        "position": "Executive",
-        "collected?": "Yes",
-        "pc": "Morris Lam",
-        "facebook": "Marcea Suwandi",
-        "imageUrl": "SuwandiMarcea.jpg"
-    }, {
-        "name": "Michelle Liang",
-        "position": "Showcase Committee",
-        "collected?": "Yes",
-        "pc": "Jason Chang"
+        "name": "Ludi Zhu",
+        "position": "Captain",
+        "imageurl": "ZhuLudi.jpg",
+        "email": "ludizhu@gmail.com"
     }, {
         "name": "Miya Sheker",
         "position": "Events Chair",
-        "collected?": "Yes",
-        "pc": "Chang Liu"
+        "imageurl": "ShekerMiya.jpg",
+        "email": "miyasheker@gmail.com"
     }, {
         "name": "Rebecca Lin",
         "position": "Director of Media",
-        "collected?": "Yes",
-        "pc": "Chang Liu"
+        "imageurl": "LinRebecca.jpg",
+        "email": "rlin824@ucla.edu"
     }, {
-        "name": "Serena Zhang",
-        "position": "Director of Events",
-        "collected?": "Yes",
-        "pc": "Sally Deng"
-    }, {
-        "name": "Soobin Bae",
-        "position": "Videographer",
-        "collected?": "Yes",
-        "pc": "N/A"
-    }, {
-        "name": "Tenn Shaun Lim",
-        "position": "Executive",
-        "collected?": "Yes",
-        "pc": "Sally Deng"
-    }, {
-        "name": "Tia Liu",
-        "position": "Photographer",
-        "collected?": "Yes",
-        "pc": "Sally Deng"
-    }, {
-        "name": "Vivian Tan",
-        "position": "Marketing Chair",
-        "collected?": "Yes",
-        "pc": "Tia Liu"
+        "name": "Sylvia Huynh",
+        "position": "Captain",
+        "imageurl": "HuynhSylvia.jpg",
+        "email": "shuynh62997@gmail.com"
     }, {
         "name": "Wendy Truong",
         "position": "Marketing Chair",
-        "collected?": "Yes",
-        "pc": "Terri Shih"
+        "imageurl": "TruongWendy.jpg",
+        "email": "wendytruong84@gmail.com"
     }, {
-        "name": "Yena Choi",
-        "position": "Advisor",
-        "collected?": "Yes",
-        "pc": "Terri Shih"
-    }]
-}
+        "name": "Lisa Chao",
+        "position": "Showcase Chair",
+        "imageurl": "ChaoLisa.jpg",
+        "email": "lisaramychao@ucla.edu",
+        "linkedin": "lisa-chao"
+    }, {
+        "name": "Dean Sumitro",
+        "position": "Director",
+        "email": "14sumid@gmail.com"
+    }, {
+        "name": "Michelle Liang",
+        "position": "Showcase Chair",
+        "imageurl": "LiangMichelle.jpg",
+        "email": "myliang84@gmail.com"
+    }, {
+        "name": "Ellis Wong",
+        "position": "Events Chair",
+        "imageurl": "WongEllis.jpg",
+        "email": "elliswonghc@gmail.com"
+    }, {
+        "name": "Anna Tian",
+        "position": "Finance Chair",
+        "imageurl": "TianAnna.jpg",
+        "email": "annactian@gmail.com"
+    }, {
+        "name": "Tia Liu",
+        "position": "Photographer",
+        "imageurl": "LiuTia.jpg ",
+        "email": "tialiu@ucla.edu",
+        "linkedin": "tialiu "
+    }
+]}
