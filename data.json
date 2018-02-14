@@ -1,85 +1,289 @@
-{"people":[
-    {
-        "name": "Alexander Tang",
-        "position": "Director",
-        "imageurl": "TangAlex.jpg",
-        "email": "alexander.x.tang@gmail.com"
+{
+    "people": [{
+        "name": "Tenn Shaun Lim",
+        "position": "Executive",
+        "phoneNumber": "(310) 948-1353",
+        "email": "shauntslim@gmail.com",
+        "picture": "LimTennShaun.jpg",
+        "placeholder": "N"
     }, {
-        "name": "Anya Li",
-        "position": "Design Chair",
-        "imageurl": "LiAnya.jpg",
-        "email": "anyali97@gmail.com"
+        "name": "Marcea Suwandi",
+        "position": "Executive",
+        "phoneNumber": "(949) 874-7880",
+        "email": "mswndi@yahoo.com",
+        "picture": "SuwandiMarcea.jpg",
+        "placeholder": "N"
     }, {
-        "name": "Ashley Pizarro",
-        "position": "Captain",
-        "imageurl": "PizarroAshley.jpg",
-        "email": "apizarro@g.ucla.edu"
+        "name": "Amanat Bal",
+        "position": "Showcase Producer",
+        "phoneNumber": "(805) 358-8400",
+        "email": "amanatbal55@gmail.com",
+        "picture": "BalAmanat.jpg",
+        "placeholder": "N"
     }, {
-        "name": "Benson Han",
-        "position": "Webmaster",
-        "imageurl": "HanBenson.jpg",
-        "email": "bensonjaminhan@gmail.com",
-        "linkedin": "8enson"
-    }, {
-        "name": "Ellen Hsieh",
-        "position": "Director of Team Relations",
-        "imageurl": "HsiehEllen.jpg",
-        "email": "eihsieh@ucla.edu"
-    }, {
-        "name": "Ludi Zhu",
-        "position": "Captain",
-        "imageurl": "ZhuLudi.jpg",
-        "email": "ludizhu@gmail.com"
-    }, {
-        "name": "Miya Sheker",
-        "position": "Events Chair",
-        "imageurl": "ShekerMiya.jpg",
-        "email": "miyasheker@gmail.com"
+        "name": "Hongxi Wang",
+        "position": "Director of Finance",
+        "phoneNumber": "(562) 685-4841",
+        "email": "hongxi@g.ucla.edu",
+        "picture": "WangHongxi.jpg",
+        "placeholder": "N"
     }, {
         "name": "Rebecca Lin",
         "position": "Director of Media",
-        "imageurl": "LinRebecca.jpg",
-        "email": "rlin824@ucla.edu"
+        "phoneNumber": "(626) 821-0165",
+        "email": "rlin824@gmail.com",
+        "picture": "LinRebecca.jpg",
+        "placeholder": "N"
     }, {
-        "name": "Sylvia Huynh",
-        "position": "Captain",
-        "imageurl": "HuynhSylvia.jpg",
-        "email": "shuynh62997@gmail.com"
+        "name": "Serena Zhang",
+        "position": "Director of Events",
+        "phoneNumber": "(858) 740-9941",
+        "email": "sjzhang@g.ucla.edu",
+        "picture": "ZhangSerena.jpg",
+        "placeholder": "N"
     }, {
-        "name": "Wendy Truong",
-        "position": "Marketing Chair",
-        "imageurl": "TruongWendy.jpg",
-        "email": "wendytruong84@gmail.com"
+        "name": "Ellen Hsieh",
+        "position": "Director of Team Relations",
+        "phoneNumber": "(310) 802-9152",
+        "email": "eihsieh@ucla.edu",
+        "picture": "HsiehEllen.jpg",
+        "placeholder": "N"
     }, {
         "name": "Lisa Chao",
-        "position": "Showcase Chair",
-        "imageurl": "ChaoLisa.jpg",
+        "position": "Showcase Committee",
+        "phoneNumber": "(612) 913-2154",
         "email": "lisaramychao@ucla.edu",
-        "linkedin": "lisa-chao"
+        "picture": "ChaoLisa.jpg",
+        "placeholder": "N"
     }, {
-        "name": "Dean Sumitro",
-        "position": "Director",
-        "email": "14sumid@gmail.com"
+        "name": "Josh Fidelis",
+        "position": "Showcase Committee",
+        "phoneNumber": "(424) 535-7079",
+        "email": "jfidelis67@yahoo.com",
+        "picture": "FidelisJosh.jpg",
+        "placeholder": "N"
     }, {
         "name": "Michelle Liang",
-        "position": "Showcase Chair",
-        "imageurl": "LiangMichelle.jpg",
-        "email": "myliang84@gmail.com"
-    }, {
-        "name": "Ellis Wong",
-        "position": "Events Chair",
-        "imageurl": "WongEllis.jpg",
-        "email": "elliswonghc@gmail.com"
+        "position": "Showcase Committee",
+        "phoneNumber": "(510) 384-0114",
+        "email": "myliang84@gmail.com",
+        "picture": "LiangMichelle.jpg",
+        "placeholder": "N"
     }, {
         "name": "Anna Tian",
         "position": "Finance Chair",
-        "imageurl": "TianAnna.jpg",
-        "email": "annactian@gmail.com"
+        "phoneNumber": "(858) 717-2880",
+        "email": "annactian@gmail.com",
+        "picture": "TianAnna.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Jesica Truong",
+        "position": "Finance Chair",
+        "phoneNumber": "(612) 607-9386",
+        "email": "jesicatruong2004@yahoo.com",
+        "picture": "TruongJesica.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Anya Li",
+        "position": "Design",
+        "phoneNumber": "(615) 630-4688",
+        "email": "anyali97@gmail.com",
+        "picture": "LiAnya.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Andy Wang",
+        "position": "Design",
+        "phoneNumber": "(628) 228-1001",
+        "email": "andywangy8@gmail.com",
+        "picture": "WangAndy.jpg",
+        "placeholder": "N"
     }, {
         "name": "Tia Liu",
         "position": "Photographer",
-        "imageurl": "LiuTia.jpg ",
-        "email": "tialiu@ucla.edu",
-        "linkedin": "tialiu "
-    }
-]}
+        "phoneNumber": "(805) 405-5597",
+        "email": "tialiu@g.ucla.edu",
+        "picture": "LiuTia.jpg",
+        "placeholder": "Y"
+    }, {
+        "name": "Vivian Tan",
+        "position": "Marketing Chair",
+        "phoneNumber": "(415) 269-3716",
+        "email": "tanvivian333@gmail.com",
+        "picture": "TanVivian.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Wendy Truong",
+        "position": "Marketing Chair",
+        "phoneNumber": "(415) 603-0882",
+        "email": "wendytruong84@gmail.com",
+        "picture": "TruongWendy.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Benson Han",
+        "position": "Webmaster",
+        "phoneNumber": "(503) 704-6558",
+        "email": "bensonjaminhan@gmail.com",
+        "picture": "HanBenson.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Miya Sheker",
+        "position": "Events Chair",
+        "phoneNumber": "(714) 386-8013",
+        "email": "miyasheker@gmail.com",
+        "picture": "ShekerMiya.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Ellis Wong",
+        "position": "Events Chair",
+        "phoneNumber": "(310) 948-3660",
+        "email": "elliswonghc@g.ucla.edu",
+        "picture": "WongEllis.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Liana Liang ",
+        "position": "Workshop Coordinator",
+        "phoneNumber": "(347) 907-0543",
+        "email": "lianaliang@g.ucla.edu",
+        "picture": "LiangLiana.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Yena Choi",
+        "position": "Advisor",
+        "phoneNumber": 8586034164,
+        "email": "yenachoi95@gmail.com",
+        "picture": "ChoiYena.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Kevs Lee",
+        "position": "Advisor",
+        "phoneNumber": "(562) 965-8835",
+        "email": "kev.sunlee@gmail.com",
+        "picture": "LeeKevs.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Alex Do",
+        "position": "Advisor",
+        "phoneNumber": 9724008780,
+        "email": "alex.aid.do@gmail.com",
+        "picture": "DoAlex.jpg",
+        "placeholder": "Y"
+    }, {
+        "name": "Alex Tang",
+        "position": "Director",
+        "phoneNumber": 3174164231,
+        "email": "alexander.x.tang@gmail.com",
+        "picture": "TangAlex.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Brandon Lee",
+        "position": "Director",
+        "phoneNumber": 8182597564,
+        "email": "trail.walker01@gmail.com",
+        "picture": "LeeBrandon.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Dean Sumitro",
+        "position": "Director",
+        "phoneNumber": 9143745113,
+        "email": "14sumid@gmail.com",
+        "picture": "SumitroDean.jpg",
+        "placeholder": "Y"
+    }, {
+        "name": "Kevin Lee",
+        "position": "Director",
+        "phoneNumber": 5629658835,
+        "email": "kev.sunlee@gmail.com",
+        "picture": "LeeKevs.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Lawrence Wang",
+        "position": "Director",
+        "email": "lawlolowang@gmail.com",
+        "picture": "WangLawrence.jpg",
+        "placeholder": "Y"
+    }, {
+        "name": "Patrick Tran",
+        "position": "Director",
+        "phoneNumber": 7147577200,
+        "email": "patricktran000@gmail.com",
+        "picture": "TranPatrick.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Priscilla McElhinney",
+        "position": "Director",
+        "phoneNumber": 9167492290,
+        "email": "priscilla.mcelhinney@gmail.com",
+        "picture": "McElhinneyPriscilla.jpg",
+        "placeholder": "Y"
+    }, {
+        "name": "Shona Das",
+        "position": "Director",
+        "phoneNumber": 4804663103,
+        "email": "shonadas2015@gmail.com",
+        "picture": "DasShona.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Thomas Choi",
+        "position": "Director",
+        "phoneNumber": 8584727536,
+        "email": "thomastaechoi@gmail.com",
+        "picture": "ChoiThomas.jpg",
+        "placeholder": "Y"
+    }, {
+        "name": "Ashley Pizarro",
+        "position": "Captain",
+        "phoneNumber": 6199854597,
+        "email": "ashleypizarro2009@yahoo.com",
+        "picture": "PizarroAshley.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Hansen Qiu",
+        "position": "Captain",
+        "phoneNumber": 6232991251,
+        "email": "hanqiu8@gmail.com",
+        "picture": "QiuHansen.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Helen-Sage Lee",
+        "position": "Captain",
+        "phoneNumber": 7145124979,
+        "email": "seolgeehelenlee@g.ucla.edu",
+        "picture": "LeeHelen.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Isaac Yoon",
+        "position": "Captain",
+        "phoneNumber": 3237743365,
+        "email": "iyoon22@gmail.com",
+        "picture": "YoonIsaac.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Ludi Zhu",
+        "position": "Captain",
+        "phoneNumber": 9085008858,
+        "email": "ludizhu@gmail.com",
+        "picture": "ZhuLudi.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Sylvia Huynh",
+        "position": "Captain",
+        "phoneNumber": 5105010316,
+        "email": "shuynh62997@gmail.com",
+        "picture": "HuynhSylvia.jpg",
+        "placeholder": "N"
+    }, {
+        "name": "Tanvi Rane",
+        "position": "Captain",
+        "phoneNumber": 4257539043,
+        "email": "tanvirane@ucla.edu",
+        "picture": "RaneTanvi.jpg",
+        "placeholder": "Y"
+    }, {
+        "name": "Kyle Diep",
+        "position": "Captain",
+        "phoneNumber": "(510) 789-5322",
+        "email": "kylediep1@gmail.com",
+        "picture": "DiepKyle.jpg",
+        "placeholder": "Y"
+    }]
+}
