@@ -18,6 +18,11 @@ var banner = ['/*!\n',
   ''  
 ].join('');
 
+gulp.task('watch', ['browserSync'], function(){
+  gulp.watch(['app/css/**/*.css', 'app/pages/**/*.njk', 'app/templates/**/*.njk'], ['nunjucks']);
+  gulp.watch(['app/css/**/*.css', 'app/pages/**/*.njk', 'app/templates/**/*.njk'], browserSync.reload);
+})
+
 // Compiles Nunjucks files
 gulp.task('nunjucks', function() {
   return gulp.src('app/pages/**/*.+(html|nunjucks|njk)')
@@ -25,7 +30,8 @@ gulp.task('nunjucks', function() {
     return require('./data.json')
   }))
   .pipe(nunjucksRender({
-    path: ['app/templates']
+    path: ['app/templates'],
+    watch: true
   }))
   .pipe(gulp.dest('app'))
 })
@@ -112,7 +118,7 @@ gulp.task('default', ['sass', 'minify-css', 'minify-js', 'copy']);
 gulp.task('browserSync', function() {
   browserSync.init({
     server: {
-      baseDir: ''
+      baseDir: 'app'
     },
   })
 })

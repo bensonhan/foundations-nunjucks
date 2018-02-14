@@ -27,6 +27,7 @@
   },
   "dependencies": {
     "bootstrap": "^4.0.0-beta",
+    "chokidar": "^2.0.1",
     "font-awesome": "4.7.0",
     "google-spreadsheet-to-json": "^1.0.0",
     "jquery": "^3.2.1",
