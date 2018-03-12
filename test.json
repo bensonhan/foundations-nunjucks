@@ -1,91 +1,11 @@
-[{
+[
+{
     "id": 1,
-    "name": "Spectra",
-    "quarter": "Spring",
+    "name": "Wintensive",
+    "quarter": "Winter",
     "year": "2017-18",
-    "link": "KQ5MiB8QiFU",
-    "img": "spectra.jpg",
+    "link": "hb0yejyszhg",
+    "img": "wintensive18.jpg",
     "placeholder": "N",
     "weight": 1
-}, {
-    "id": 2,
-    "name": "Rezn8",
-    "quarter": "Spring",
-    "year": "2017-18",
-    "link": "AVasUouS-Fc",
-    "img": "rezn8.jpg",
-    "placeholder": "N",
-    "weight": 1
-}, {
-    "id": 3,
-    "name": "Lost and Found",
-    "quarter": "Spring",
-    "year": "2017-18",
-    "link": "etKtSxb47UU",
-    "img": "lostandfound.jpg",
-    "placeholder": "N",
-    "weight": 1
-}, {
-    "id": 4,
-    "name": "F.A.M.",
-    "quarter": "Spring",
-    "year": "2017-18",
-    "link": "LEitjjcUQNc",
-    "img": "fam.jpg",
-    "placeholder": "N",
-    "weight": 1
-}, {
-    "id": 5,
-    "name": "Incognito",
-    "quarter": "Spring",
-    "year": "2017-18",
-    "link": "zlcqVJKyBG4",
-    "img": "incognito.jpg",
-    "placeholder": "N",
-    "weight": 1
-}, {
-    "id": 6,
-    "name": "Icarus",
-    "quarter": "Fall ",
-    "year": "2017-18",
-    "link": "lJutYVjl2tU",
-    "img": "icarus.jpg",
-    "placeholder": "Y",
-    "weight": 2
-}, {
-    "id": 7,
-    "name": "Vision",
-    "quarter": "Fall ",
-    "year": "2017-18",
-    "link": "PtHFkwzQCPo",
-    "img": "vision.jpg",
-    "placeholder": "N",
-    "weight": 2
-}, {
-    "id": 8,
-    "name": "Cerberus",
-    "quarter": "Fall ",
-    "year": "2017-18",
-    "link": "iUFYlHj8sBY",
-    "img": "cerberus.jpg",
-    "placeholder": "N",
-    "weight": 2
-}, {
-    "id": 9,
-    "name": "Rev",
-    "quarter": "Fall ",
-    "year": "2017-18",
-    "link": "9sv6VjLHpak",
-    "img": "rev.jpg",
-    "placeholder": "N",
-    "weight": 2
-}, {
-    "id": 10,
-    "name": "Sporks",
-    "quarter": "Fall ",
-    "year": "2017-18",
-    "link": "F1SqOkQJzp4",
-    "img": "sporks.jpg",
-    "placeholder": "N",
-    "weight": 2
 }]
