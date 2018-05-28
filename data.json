@@ -1,4 +1,15 @@
 {
+    "events": [
+    {
+        "id": 1,
+        "name": "Wintensive",
+        "quarter": "Winter",
+        "year": "2017-18",
+        "link": "hb0yejyszhg",
+        "img": "wintensive18.png",
+        "placeholder": "N",
+        "weight": 1
+    }],
     "people": [
     {
         "name": "Tenn Shaun Lim",
@@ -417,16 +428,45 @@
         "img": "sporks.jpg",
         "placeholder": "N",
         "weight": 2
-    }],
-    "events": [
+    },
     {
-        "id": 1,
-        "name": "Wintensive",
+        "id": 10,
+        "name": "Fyr",
         "quarter": "Winter",
         "year": "2017-18",
-        "link": "hb0yejyszhg",
-        "img": "wintensive18.png",
+        "link": "a8pouPCg8QU",
+        "img": "fyr.jpg",
         "placeholder": "N",
-        "weight": 1
+        "weight": 3
+    },
+    {
+        "id": 11,
+        "name": "Nimbus",
+        "quarter": "Winter",
+        "year": "2017-18",
+        "link": "SxXZGatH09g",
+        "img": "nimbus.jpg",
+        "placeholder": "N",
+        "weight": 3
+    },
+    {
+        "id": 12,
+        "name": "Swiped",
+        "quarter": "Winter",
+        "year": "2017-18",
+        "link": "EjnEkPHnd-0",
+        "img": "swiped.jpg",
+        "placeholder": "N",
+        "weight": 3
+    },
+    {
+        "id": 13,
+        "name": "Aim",
+        "quarter": "Winter",
+        "year": "2017-18",
+        "link": "epCEJBUKmxQ",
+        "img": "aim.jpg",
+        "placeholder": "N",
+        "weight": 3
     }]
 }
